@@ -9,5 +9,8 @@
         <module name="Sdu_Store" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SDU_Store" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
