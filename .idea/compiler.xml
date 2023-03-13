@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Sdu_Store" />
+        <module name="SDU_Store" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SDU_Store" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
